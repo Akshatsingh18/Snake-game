@@ -10,6 +10,8 @@ You get scored according to length of the snake and there is no concept lives on
 # Techused
 Html, CSS , javascript
 
+# codepen
+https://codepen.io/akshatsingh18/project/editor/AeVxwW
 
 #screenshot
 ![image](https://user-images.githubusercontent.com/81671650/151861541-5be05bf6-517e-4b6c-ab6c-b88527583149.png)
