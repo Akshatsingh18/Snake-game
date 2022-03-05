@@ -13,6 +13,9 @@ Html, CSS , javascript
 # codepen
 https://codepen.io/akshatsingh18/project/editor/AeVxwW
 
+# SITE
+https://dazzling-jang-dc8d54.netlify.app/
+
 #screenshot
 ![image](https://user-images.githubusercontent.com/81671650/151861541-5be05bf6-517e-4b6c-ab6c-b88527583149.png)
 ![image](https://user-images.githubusercontent.com/81671650/151861651-5bf786b4-5b11-4d7f-b267-535005111e6c.png)
